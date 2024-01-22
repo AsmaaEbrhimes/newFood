@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.center {
+  text-align: center;
+  font-size: 25px;
+  color: brown;
+  font-weight: 700;
+
+}
+
+.line {
+  width: 200px;
+  border: 2px solid brown;
+  margin: auto;
+  text-align: center;
+}
+
+.space{
+  margin-right: 3px;
+}
+.img{
+  width: 200px;
+  height:  180px;
+}
